@@ -1,0 +1,59 @@
+ByeDPIAndroid Kurulum Kılavuzu (Türkiye Ayarları)
+
+
+Uygulamayı İndirin:
+
+https://github.com/dovecoteescapee/ByeDPIAndroid/releases
+
+
+Uygulamayı Açın:
+
+Uygulamayı kurun ve açın. Sağ üst köşedeki dişli çark simgesine (⚙️) dokunarak "Settings" menüsüne gidin.
+
+
+General Ayarları Yapın:
+
+Mode: "VPN" seçeneğini aktif edin.
+DNS: "1.1.1.1" yazın.
+IPv6: Kapalı bırakın.
+
+
+Byedpi Ayarları:
+
+Use command line settings: Kapalı bırakın.
+UI Editor seçeneğine girin
+
+
+Proxy Ayarları:
+
+Listen address: "127.0.0.1" yazın.
+Port: "1080" girin.
+Maximum number of connections: "512" yazın.
+Buffer size: "16384" girin.
+
+
+Desync Ayarları:
+
+Blacklist Ayarları:
+
+"Hosts" sekmesini açın ve "Blacklist" seçin "Hosts blacklist" kısmına şu alan adlarını ekleyin:
+
+Discord için:
+
+
+## Discord için Blacklist
+
+```text
+discord.com
+discord.gg
+discordapp.com
+discordapp.io
+discordapp.net
+discord.media
+discordcdn.com
+discordstatus.com
+discord-attachments-uploads-prd.storage.googleapis.com
+``
+
+
+
