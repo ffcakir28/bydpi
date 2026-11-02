@@ -34,5 +34,16 @@
 
     Discord için:
 
+    `discord.com
+    discord.gg
+    discordapp.com
+    discordapp.io
+    discordapp.net
+    discord.media
+    discordcdn.com
+    discordstatus.com
+    discord-attachments-uploads-prd.storage.googleapis.com`
+    
+
 
     
